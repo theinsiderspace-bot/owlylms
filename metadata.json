@@ -1,0 +1,6 @@
+{
+  "name": "OwlyLMS - Enterprise Learning & Exam Platform",
+  "description": "Comprehensive Learning Management System with course delivery, progress tracking, role administration, HRIS integrations, automated billing, and SAT/IELTS exam gateways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
